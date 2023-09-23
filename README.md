@@ -1,6 +1,6 @@
-[![MasterHead](https://png.pngtree.com/thumb_back/fw800/background/20220522/pngtree-programming-and-coding-banner-working-image_1375029.jpg)
+
 <h1 align="center">Hi 👋, I'm Leonee Ila Bruzola</h1>
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+
 - 📫 How to reach me **leoneeilabruzola20@gmail.com**
 
 - ⚡ Fun fact **I am Funny😂**
