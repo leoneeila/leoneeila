@@ -1,5 +1,7 @@
+![banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center">Hi 👋, I'm Leonee Ila Bruzola</h1>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
 
 - 📫 How to reach me **leoneeilabruzola20@gmail.com**
 
